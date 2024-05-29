@@ -32,12 +32,6 @@ To run the fine-tuning process, you need the following dependencies:
 ## Installation
 
 Clone the repository and install the required packages:
-    ```bash
-    git clone https://github.com/imanoop7/fine-tunning-phi2.git
-    cd fine-tunning-phi2
-    pip install -r requirements.txt
-
-
 
 ## Usage
 Open the Jupyter notebook and follow the steps to fine-tune the PHI-2 model:
